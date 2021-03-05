@@ -2,13 +2,15 @@ def new_hash
   {}
 end
 
-def my_hash {
+def my_hash 
+  {
     "pork sandwich" => "pretzel bun",
     "chicken sandwich" => "brioche bun"
   }
 end
 
-def pioneer {
+def pioneer 
+  {
     :name = "Grace Hopper",
     :branch = "Navy"
   }
