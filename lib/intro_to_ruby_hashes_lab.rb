@@ -11,8 +11,8 @@ end
 
 def pioneer 
   {
-    :name = "Grace Hopper",
-    :branch = "Navy"
+    :name => "Grace Hopper",
+    :branch => "Navy"
   }
 end
 
